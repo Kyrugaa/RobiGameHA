@@ -34,3 +34,4 @@ public class Food {
 		return yPos;
 	}
 }
+//test
