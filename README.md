@@ -22,8 +22,8 @@ Was den Code angeht stand ich von Anfang an vor dem Problem, dass ich das Progra
 
 #### Das Projekt ist in fünf Klassen unterteilt.
 
-Robi.java:                In dieser Klasse wird die Optik der Player(Robi's) designed. 
-Food.java:                Hier werden die kleinen Dots, welche den Player zum wachsen bringen und auch Punkte geben erstellt.
-RobiGameController.java:  Hier wird die Logik und Steuerung im Spiel definiert.
-HighScore.java:           Diese Klasse enthält nur zwei Variablen, da darin auch nur die Getter-Funktionen für den Namen und den Score sind.
-HighScoreController.java: Hier wird die Logik und Berechnung der verschiedenen erziehlten Scores verwaltet.
+- Robi.java:                In dieser Klasse wird die Optik der Player(Robi's) designed. 
+- Food.java:                Hier werden die kleinen Dots, welche den Player zum wachsen bringen und auch Punkte geben erstellt.
+- RobiGameController.java:  Hier wird die Logik und Steuerung im Spiel definiert.
+- HighScore.java:           Diese Klasse enthält nur zwei Variablen, da darin auch nur die Getter-Funktionen für den Namen und den Score sind.
+- HighScoreController.java: Hier wird die Logik und Berechnung der verschiedenen erziehlten Scores verwaltet.
